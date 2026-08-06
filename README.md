@@ -34,4 +34,15 @@ Through a series of relays and contactors a certain sequence of loads will engag
 
 ## Demo
 
-For a better understanding of how the system works, included is a demo gif and a screenshot of the variables.
+For a better understanding of how the system works, included are screenshots and demonstration video.
+
+- **Variables**
+<img width="2553" height="1400" alt="Program Variables" src="https://github.com/user-attachments/assets/79baceb3-ff1c-4313-b782-98b3837efdcb" />
+
+- **Ladder Logic & HMI**
+<img width="1907" height="962" alt="Program LD and HMI" src="https://github.com/user-attachments/assets/af618344-570d-4c41-9e2a-4fc0656b0db3" />
+
+- **Demo GIF**
+https://github.com/user-attachments/assets/a7fcc268-2ec6-45a0-b652-f57e58b79905
+
+
