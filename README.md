@@ -37,7 +37,7 @@ Through a series of relays and contactors a certain sequence of loads will engag
 For a better understanding of how the system works, included are screenshots and demonstration video.
 
 - **Variables**
-<img width="2553" height="1400" alt="Program Variables" src="https://github.com/user-attachments/assets/79baceb3-ff1c-4313-b782-98b3837efdcb" />
+<img width="2557" height="1305" alt="Program Variables" src="https://github.com/user-attachments/assets/aa3277f2-e5ad-469d-8a79-1432ce8e51e0" />
 
 - **Ladder Logic & HMI**
 <img width="1907" height="962" alt="Program LD and HMI" src="https://github.com/user-attachments/assets/af618344-570d-4c41-9e2a-4fc0656b0db3" />
