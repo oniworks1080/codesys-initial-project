@@ -1,5 +1,6 @@
 Project.~u
 *.opt
 *.compileinfo
+*.precompilecache
 *.bak
 *.log
