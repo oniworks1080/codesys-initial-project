@@ -2,5 +2,6 @@ Project.~u
 *.opt
 *.compileinfo
 *.precompilecache
+*.bootinfo_guids
 *.bak
 *.log
