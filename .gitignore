@@ -5,3 +5,4 @@ Project.~u
 *.bootinfo_guids
 *.bak
 *.log
+*.precompilecache
