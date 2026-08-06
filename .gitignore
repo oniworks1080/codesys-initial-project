@@ -6,3 +6,4 @@ Project.~u
 *.bak
 *.log
 *.precompilecache
+*.bootinfo
